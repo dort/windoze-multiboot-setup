@@ -1,0 +1,8 @@
+Before putting in my USB drive with ubuntu 26 on it, I'll
+first reboot windows until it does so cleanly without installing
+more updates.
+
+On this laptop, pressing the F2 key while the machine is first
+starting up gets me into the BIOS screen (where I can change
+the boot order away from the default of booting Windows off
+the SSD).
