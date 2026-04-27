@@ -89,3 +89,20 @@ Change
 to the right)
 typing in my valid Windows 11 Pro license key
 
+
+OK, that worked fairly smoothly (despite a flash on the screen about
+"Activation not being possible at this time, try again later."
+or something like that right before the first reboot).
+
+So now, in order for the next step (installing ubuntu) to
+succeed, I have to turn off "Device encryption" in the
+Privacy & Security section of settings.
+
+If I cared more about setting up windows properly, I'd
+document that step, but I'm so eager to get GNU/linux on the
+machine that I'm not going to do anything more now (maybe
+I'll come back later and do that, and add notes when I do,
+but for now I'm going to just move onto putting the OSes
+I want to mostly be using on and setting them up)
+
+So from here, we'll go to 2nd-major-step-installing-ubuntu
