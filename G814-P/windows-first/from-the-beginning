@@ -4,7 +4,7 @@ The laptop is one i love (not everyone would, as it's giant and super massive (p
 
 OK, now I'm booting up to that initial setup screen (with a Windows 11 Home install waiting for configuration).
 
-I'll sequentially note the buttons on the bottom right i click on after the choice above
+I'll sequentially note the buttons on the bottom right i click on after the choice above. Square brackets [] enclose clarifying comments not present on the screen. When there's something I type in on the screen (rather than a choice I select from), I'll leave a leading space before what i type in:
 
 English (United States)
 Continue in English
@@ -19,4 +19,19 @@ Skip [2nd keyboard layout]
 
 [connect to wireless (find working SSID and possibly enter passphrase/credentials)]
 Next
+
+Accept [license agreement]
+
+ rogdora-windoze
+Next [name computer]
+
+ <my Microsoft account>
+Next [signing into the cloud]
+
+iPhone, iPad or Android device
+
+<scan QR code>
+
+Create PIN [save it in my password manager]
+
 
