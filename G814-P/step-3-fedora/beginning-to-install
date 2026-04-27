@@ -1,0 +1,14 @@
+yeah, so the original plan was to triple boot
+
+but before this computer needed to go back for warranty repair i was using it in fedora pretty much all the time, so I'm not going to install ubuntu (the SSD is only 1T and leaving some room for Windows seems smart)
+
+i chose to "test this media and then try fedora" upon getting the prompt from the fedora boot loader
+
+there was an error about an initramfs problem, not sure if that's truly an issue (if so, i'll try to write to another thumbdrive), but I'm trying to proceed now anyhow
+
+
+
+looks like there is a problem
+
+ok, back to overwrite the good brand new thumbdrive i originally put ubuntu on with fedora
+

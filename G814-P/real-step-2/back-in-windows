@@ -14,3 +14,9 @@ It would let me shrink windows down to around 75G.  I've made the mistake before
 
 Also it's worth pointing out that I am not removing nor altering any of the other partitions. Leaving them all alone (including the restore partition and the EFI partition).
 
+
+Now I'm rebooting back into Windows just to make sure all is kosher before proceeding.
+
+All good. And yeah, it was the right decision to leave Windows more headroom, as what was being offered would have basically shrunk the Windows C partition down to having little or no free space to install other programs or save data.
+
+
