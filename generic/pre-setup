@@ -1,0 +1,4 @@
+dd if=/path/to/your/isofile of=/your/usb/disk bs=8M status=progress
+
+dd if=/home/ni/Downloads/Fedora-KDE-Desktop-Live-43-1.6.x86_64.iso of=/dev/sda bs=8M status=progress
+
