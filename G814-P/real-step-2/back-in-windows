@@ -1,0 +1,16 @@
+So I'm going to boot back into windows to shrink the partition from here, instead of trying to have ubuntu's install do it (though that way could still work too).
+
+But...
+
+As I boot back into windows, I notice a wanting to register screen coming up for me so I'm going to login to "MyASUS" (assuming I can succeed at finding a username and password i previously set up?).
+
+Nevermind...
+
+i can't find credentials for myasus (though I'm pretty sure i did set up an account with them once already for this machine?)
+
+so the tool to use is called "Disk Management" in Windows
+
+It would let me shrink windows down to around 75G.  I've made the mistake before of shrinking to the limit and regretted it, so I chose to free up 775G (on which I'll just put fedora -- forget ubuntu on this laptop (i have another MSI laptop with a GPU in it with a 4T SSD that has all 3 OSes on it; this one doesn't need to have ubuntu)), which means my Windows C: drive is now at 167.30GB.
+
+Also it's worth pointing out that I am not removing nor altering any of the other partitions. Leaving them all alone (including the restore partition and the EFI partition).
+
