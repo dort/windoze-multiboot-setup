@@ -1,4 +1,4 @@
 # windoze-multiboot-setup
-I've done this many times, but this time i'm going to try to record details for myself and others
+I've done this many times, but this time i'm going to try to record details for myself and others.
 
 Since I just received a laptop back from a warranty repair that wiped the hard disk, i'm going to go through the entire process, including setting up Win11, upgrading to Win11Pro, shrinking the partition it's on, and then installing ubuntu and fedora. Some information will obviously be specific to my Asus ROG G814P and there's always an option for changing relative sizes of partitions for the OSes (or choosing different OSes), but my hope is that this will be useful for people who are interested in running GNU/linux on PCs, whether it's a choice they make to keep windoze on them too "just in case" (one never knows when one might find oneself in a situation such that some application, software, etc... either needs, or is easier to use on Windows than GNU/linux).
