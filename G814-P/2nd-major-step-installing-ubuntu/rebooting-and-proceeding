@@ -6,3 +6,64 @@ On this laptop, pressing the F2 key while the machine is first
 starting up gets me into the BIOS screen (where I can change
 the boot order away from the default of booting Windows off
 the SSD).
+
+I shut down Windows one final time (for now, I'll only be
+booting back into it to verify it still works periodically).
+
+Then I inserted my thumbdrive with the ubuntu 26 ISO written
+to it (see elsewhere in this repo for that instruction), and
+pressed the power key, immediately following up with hammering
+on the F2 key (probably I could get away with just holding
+it down, but I learned to rapid fire press it instead and still
+do it that way).
+
+Now I'm in my BIOS setup from Asus, and I switch the boot priority
+so that the UEFI: Asolid USB, Partition2 (ASolid USB) is above
+Windows Boot Manager (MTFDKB A1T0QGN-1BN1AABGA)
+
+If it's not obvious, even if you have the exact same model laptop
+I do, probably the details of what's being displayed for boot
+options will at least be subtly (if not grossly!) different
+than what I'm documenting here.
+
+Before saving and exiting from the BIOS I'm going to look at
+some other options too.
+
+So into Advanced Mode (F7):
+Under Main, there's nothing to change but the language
+and I'll keep that as English
+
+So let's look at Advanced next. All looks fine there. In
+general, there's no need to change anything unless there's
+a specific reason. My search is for any virtualization
+related setting (which I want to make sure is enabled), along
+with making sure I have secure boot disabled.
+
+Boot similarly is fine (since I already made the change I
+needed from the "Simple" interface before I entered into this
+"Advanced" mode of the BIOS.
+
+Under Security, Secure Boot was indeed Enabled. I've
+disabled it. Which means I should probably boot back into
+Windows to see what happens first. Ah well, this is not the
+time to rush, so let's pull out the ubuntu 26 thumbdrive, save
+and exit and see what happens.
+
+
+Yeah, disabling secure boot wiped out my (locally stored
+I presume?) PIN and I had to reset it after recovering
+my windows account with a passkey I have on my phone.
+
+Joy, joy, joy...
+
+
+
+OK, so now let's start over and go back to the BIOS to
+make sure after I plug in my ubuntu 26 thumbdrive, that
+it's still set to boot from there before booting Windows
+from the internal SSD.
+
+Nope, it wasn't.
+
+So change that and then save and exit.
+
