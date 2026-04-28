@@ -12,3 +12,19 @@ looks like there is a problem
 
 ok, back to overwrite the good brand new thumbdrive i originally put ubuntu on with fedora
 
+
+<i waited until morning instead of proceeding with work on this into the evening so now I've had a good night's sleep>
+
+
+i used the recommended verification techniques provided by the fedora project to insure that the ISO i downloaded (fedora43 with KDE) is good (it is) and then overwrote the brand new thumbdrive that I'd previously written my ubuntu 26 iso to yesterday
+
+now i've booted into that successfully (no errors) and I'll click on "install to hard drive" and begin to install alongside windows
+
+
+one of the main reasons for this documentation (to deal with how to set up triple boot) is now moot, so the choices are far more straightforward
+
+I chose the option to share with other operating systems, and also to encrypt, recording my encryption passphrase and my user login as I typed them in so as not to lock myself out in the future should i forget either.
+
+It makes me somewhat nervous that my install apparently wants to format my /boot/efi partition, but let's go with it and hope windows will still boot (i think it will, though maybe I'll again have to recover/reset my PIN there).
+
+
