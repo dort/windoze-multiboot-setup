@@ -1,0 +1,26 @@
+So I've booted into my kde fedora43 fresh install, that's encrypted -- i haven't checked windoze yet to make sure it still boots, but i will.
+
+The first thing i did was quickly bounce through the "intro" (I almost clicked "skip" but I'm glad I didn't as there was an option to enable 3rd party software packages which I chose).
+
+Now I'll set up my wireless and begin my customization (i need my konsole to be there on my dock).
+
+sudo su - to get a true root terminal first in konsole
+
+pin konsole to task manager
+
+then inside that root terminal:
+
+dnf update
+
+allow it to proceed
+
+allow it to import new keys for encryption stuff
+
+hope that my keyboard backlight survives a new kernel install and reboot...
+
+
+
+
+git
+ssh
+emacs
