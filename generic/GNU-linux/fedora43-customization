@@ -47,3 +47,5 @@ and then i set up git:
 so i think i'm good to go here
 
 
+now as root i put rogdora43 as the entry in the (formerly blank) /etc/hostname file
+
