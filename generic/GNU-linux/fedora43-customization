@@ -49,3 +49,8 @@ so i think i'm good to go here
 
 now as root i put rogdora43 as the entry in the (formerly blank) /etc/hostname file
 
+and also as root:
+
+systemctl enable --now sshd
+
+to make sure sshd starts on boot by adding the proper symlink automatically
