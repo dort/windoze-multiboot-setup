@@ -18,9 +18,18 @@ allow it to import new keys for encryption stuff
 
 hope that my keyboard backlight survives a new kernel install and reboot...
 
+dnf install emacs-nox keepassxc
 
+   ...to start with (before even rebooting)
+
+
+and also copy over contents of .ssh/ from another machine so I have my keys
+
+now reboot
+
+whoops, lets copy over .emacs from another machine before rebooting too
+
+and then copy over to /root/ from /home/<username>/.emacs too
 
 
 git
-ssh
-emacs
