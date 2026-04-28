@@ -31,5 +31,11 @@ whoops, lets copy over .emacs from another machine before rebooting too
 
 and then copy over to /root/ from /home/<username>/.emacs too
 
+so on the bright side, windows booted fine from the fedora boot menu, no PIN reset needed
+
+but as I suspected, my keyboard backlight no longer works
+
 
 git
+nvidia
+ASUS backlight utility
