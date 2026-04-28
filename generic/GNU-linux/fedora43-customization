@@ -36,6 +36,14 @@ so on the bright side, windows booted fine from the fedora boot menu, no PIN res
 but as I suspected, my keyboard backlight no longer works
 
 
-git
-nvidia
-ASUS backlight utility
+weirdly, the power management in KDE allowed me to light the keyboard back up so maybe I'm good for now?
+
+and then i set up git:
+
+ git config --global user.email "my@example.com"
+ git config --global user.name "first last"
+ git config --global core.editor "emacs"
+
+so i think i'm good to go here
+
+
